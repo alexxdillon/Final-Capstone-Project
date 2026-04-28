@@ -6,7 +6,7 @@ This study examines how major technology firms position themselves within the ar
 Alex Dillon, American University
 
 ## Acknowledgements
-This project was completed with guidance and support from Professor Wu, whose feedback helped shape its development.
+This project was completed with guidance and support from Dr. Wu, whose feedback helped shape its development.
 
 ## Programming Languages, PLatforms, and Libraries Used
 ### Programming Languages
