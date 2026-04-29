@@ -49,6 +49,7 @@ python -m streamlit run app.py --server.port 8502 --server.address 0.0.0.0
 ```bash
 ./cloudflared tunnel --url http://localhost:8502
 ```
+A temporary public URL can be generated when running the project in Google Colab using Cloudflare tunnels.
 
 ## Instructions for Using the System
 Once the dashboard is running, users can navigate between various views to explore the results:
