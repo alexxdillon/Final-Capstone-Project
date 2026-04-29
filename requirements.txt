@@ -1,0 +1,9 @@
+streamlit
+node2vec
+pykeen
+pandas
+numpy
+networkx
+torch
+scikit-learn
+matplotlib
