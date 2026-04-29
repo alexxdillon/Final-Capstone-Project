@@ -8,12 +8,12 @@ Alex Dillon, American University
 ## Acknowledgements
 This project was completed with guidance and support from Dr. Wu, whose feedback helped shape its development.
 
-## Programming Languages, PLatforms, and Libraries Used
+## Programming Languages, Platforms, and Libraries Used
 ### Programming Languages
  - Python
 ### Platforms
  - Google Colab
- - Streamlit (for dashbaord deployment)
+ - Streamlit (for dashboard deployment)
 ### Libraries
  - pandas
  - numpy
@@ -45,7 +45,7 @@ file_path = 'path_to_dataset/Dataset.xlsx'
 ```bash
 python -m streamlit run app.py --server.port 8502 --server.address 0.0.0.0
 ```
-### 5. ccess the Application by Public URL
+### 5. Access the Application by Public URL
 ```bash
 ./cloudflared tunnel --url http://localhost:8502
 ```
