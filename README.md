@@ -97,6 +97,35 @@ An example use of the system is shown below:
 4. Understand strategies and patterns using charts
 5. Explore the firm's acquisition network using knowledge graph visualization
 
+## Example Runs and System Validation
+
+### Acquisitions View
+![Meta Acquistions](images/Acquisition_Raw_Data.png)
+
+### Cosine Similarity Charts
+![Apple Similarity Scores](images/Cosine_Similarity_Bar_Charts.png)
+
+### Knowledge Graph Visualization
+![Google Knowledge Graph for Amount Raised](images/Knowledge_Graph_Example.png)
+
+### System Validation (Test Cases)
+The system was tested to ensure that all of the components are accurate.
+
+1. Data Verification
+- Verified Dataset.xlsx loads correctly in Colab and Streamlit  
+- Confirmed all triples are processed into the graph and matrix  
+
+2. Knowledge Graph Construction
+- Verified that all entities and relationships are correctly added to the graph  
+- Ensured no missing or duplicate nodes in the graph structure  
+
+3. Similarity Scores
+- Confirmed values fall between -1 and 1  
+- Examined cosine similarity scores against raw acquisition counts  
+
+4. Dashboard Functionality
+- Verified all Streamlit views load successfully 
+
 ## Contact Information
 Alex Dillon
 Email: ad8993a@american.edu
