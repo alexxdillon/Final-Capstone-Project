@@ -127,5 +127,5 @@ The system was tested to ensure that all of the components are accurate.
 - Verified all Streamlit views load successfully 
 
 ## Contact Information
-Alex Dillon
+Alex Dillon  
 Email: ad8993a@american.edu
